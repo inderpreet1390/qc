@@ -20,4 +20,4 @@ To follow along and execute the code on your own machine, use the following step
 
 ## Dependencies
 
-Before running the notebook, ensure that you have the required libraries already installed. If not, use `!pip install` within the notebook to install them, as shown in the lecture.
+While running the notebooks (colab or ipynb), ensure that you have the required libraries already installed. If not, use `!pip install` within the notebook to install them, as shown in the lecture.

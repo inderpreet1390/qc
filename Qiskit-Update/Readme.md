@@ -20,6 +20,6 @@ Before you can run the code in the notebook, make sure you have the following li
 - Qiskit-Aer: Qiskit's high-performance simulator framework. This allows us to access various simulators that would required to execute our quantum circuit.
   !pip install qiskit-aer
 
-The colab notebook is available [here](https://colab.research.google.com/drive/1LWWSa2pSSE2QXaziNHl_mJ_3RxlQSgze?usp=sharing)
+The colab notebook is available [here](https://colab.research.google.com/drive/1hQcIpIOj4xBxp-CK-OggD7rox-fMzELJ?usp=sharing)
 
 

@@ -17,3 +17,10 @@ To follow along and execute the code on your own machine, use the following step
 ## Dependencies
 
 While running the notebooks (colab or ipynb), ensure that you have the required libraries already installed. If not, use `!pip install` within the notebook to install them, as shown in the lecture.
+
+
+## Additional Resources:
+- https://www.youtube.com/watch?v=nxIGNbcVKtA&t=203s&ab_channel=Josh%27sChannel
+- https://www.youtube.com/watch?v=GSsElSQgMbU&t=1045s&ab_channel=Qiskit
+- https://www.youtube.com/watch?v=lbrO_0EImZ4&ab_channel=ArturEkert
+- https://www.youtube.com/watch?v=mMwovHK2NrE&t=619s&ab_channel=Qiskit

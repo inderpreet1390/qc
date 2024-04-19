@@ -24,3 +24,4 @@ While running the notebooks (colab or ipynb), ensure that you have the required 
 - https://www.youtube.com/watch?v=GSsElSQgMbU&t=1045s&ab_channel=Qiskit
 - https://www.youtube.com/watch?v=lbrO_0EImZ4&ab_channel=ArturEkert
 - https://www.youtube.com/watch?v=mMwovHK2NrE&t=619s&ab_channel=Qiskit
+- https://www.youtube.com/watch?v=QuwAM374sFA&t=1308s&ab_channel=Elucyda
